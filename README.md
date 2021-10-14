@@ -5,11 +5,11 @@ v1.0
 use:
 ##### *不指定端口默认扫描常见危险端口：*<br />
 ##### 批量扫描(文件下需要ip.txt)<br />
-  '''python  
-  python3 pscan.py -p 89-90  <br />
+
+<h1>  python3 pscan.py -p 89-90  <br />
   or<br />
   pscan.exe -p 80-90<br /><br />
-  
+ </h1>
  ##### 单个扫描<br />
   '''python
   python3 pscan.py -u 127.0.0.1 -p 80-90<br />
