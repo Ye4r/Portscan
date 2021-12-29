@@ -9,9 +9,9 @@
 
 #### 基于1.0版本更改了输入端口只可以范围
 ```
-  python3 pscan.py -p 80
+  python3 portscan -p 80
   or
-  python3 pscan.py -u 127.0.0.1 -p 80
+  python3 portscan -u 127.0.0.1 -p 80
 ```
 
 
